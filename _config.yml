@@ -1,6 +1,6 @@
 name: dijning
 favicon: null
-layout_spectrum: 0.6223457434680313
+layout_spectrum: 0.60522
 typography_spectrum: 0.3797662379220128
 title: 'DIJNING - on how technology affects the way we create, distribute and listen to music '
 cta:
@@ -23,7 +23,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 0.5415664101019502
-  lightness: 0.12206359370611608
-  saturation: 0.46300900098867714
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.3861954731401056
 purpose: []
